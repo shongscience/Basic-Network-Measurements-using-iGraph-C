@@ -5,13 +5,6 @@ Created on Mon Jul 25 11:03:24 2016
 @author: shong
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 26 11:16:44 2016
-
-@author: shong
-"""
-
 import matplotlib.pyplot as plt
 import numpy as np
 import os
