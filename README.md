@@ -5,7 +5,7 @@
 
 3. Once you have installed iGraph/C properly, you can compile 
   - netscalar.c : print basic network quantities from input "edge" files
-  - netprintmembership.c : print membership ids for vertices 
+  - netprintmembership.c : print a membership id for each vertex 
  
     ** network example files : simple.edge, simpleplus.edge, ring20.edge, and star20.edge
 
