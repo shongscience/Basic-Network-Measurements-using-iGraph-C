@@ -7,7 +7,7 @@
   - netscalar.c : print basic network quantities from input "edge" files
   - netprintmembership.c : print a membership id for each vertex 
  
-    ** network example files : simple.edge, simpleplus.edge, ring20.edge, and star20.edge
+    ** network example files : ./misc/ simple.edge, simpleplus.edge, ring20.edge, and star20.edge
 
   3.1 netscalar.c
     - usage : netscalar.bin in.edge out.network
