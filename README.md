@@ -19,4 +19,4 @@
     
     ** These are simple modifed suites from igraph example files. Most jobs are likely done by shell- and python-scripts utilizing these simple c-binaries.
   
-    ** When the number of vertices and edges are not huge, you'd better use igraph/python in an ipython environment as all-in-one solution.   
+    ** When the number of vertices and edges are not huge, you'd better use igraph/python in an ipython environment as an all-in-one solution.   
