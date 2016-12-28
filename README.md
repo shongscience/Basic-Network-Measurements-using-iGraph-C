@@ -1,4 +1,4 @@
-# Basic-Network-Measurements-using-iGraph-C-C-
+# Basic-Network-Measurements-using-iGraph-C
 1. Some basic (and ad-hoc) codes to get network quantities using iGraph/C/C++
 
 2. iGraph is available at http://igraph.org/
