@@ -20,3 +20,6 @@
     ** These are simple modifed suites from igraph example files. Most jobs are likely done by shell- and python-scripts utilizing these simple c-binaries. As an example, you can check "generateScripts.py".
   
     ** When the number of vertices and edges are not huge, you'd better use igraph/python in an ipython environment as an all-in-one solution.   
+
+4. Misc folder
+  - Some utility files related to astrometry, network edges, etc.
