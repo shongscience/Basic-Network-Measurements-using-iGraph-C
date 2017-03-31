@@ -19,9 +19,9 @@
     
     - ex) netprintmembership.bin simpleplus.edge dummyresult.network
     
-    ** These are simple modifed suites from igraph example files. Most jobs are likely done by shell- and python-scripts utilizing these simple c-binaries. As an example, you can check "generateScripts.py".
+  ** These are simple modifed suites from igraph example files. Most jobs are likely done by shell- and python-scripts utilizing these simple c-binaries. As an example, you can check "generateScripts.py".
   
-    ** When the numbers of vertices and edges are not large, you'd better use igraph/python in an ipython environment.
+  ** When the numbers of vertices and edges are not large, you'd better use igraph/python in an ipython environment.
 
 4. Misc folder
   - Some utility files related to astrometry, network edges, etc.
