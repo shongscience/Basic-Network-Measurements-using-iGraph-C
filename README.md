@@ -11,10 +11,12 @@
 
   3.1 netscalar.c
     - usage : netscalar.bin in.edge out.network
+    
     - ex) netscalar.bin ring20.edge dummyresult.network
       
   3.2 netprintmembership.c
     - usage : netprintmembership.bin in.edge out.network
+    
     - ex) netprintmembership.bin simpleplus.edge dummyresult.network
     
     ** These are simple modifed suites from igraph example files. Most jobs are likely done by shell- and python-scripts utilizing these simple c-binaries. As an example, you can check "generateScripts.py".
